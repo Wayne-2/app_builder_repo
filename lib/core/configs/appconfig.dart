@@ -6,7 +6,7 @@
 // ║  Re-generated on every Deploy press                      ║
 // ╚══════════════════════════════════════════════════════════╝
 //
-// Generated : 2026-03-28T05:38:25.381188
+// Generated : 2026-04-02T15:33:15.275359
 
 // ignore_for_file: constant_identifier_names
 
@@ -14,13 +14,13 @@ import 'package:flutter/material.dart';
 
 abstract final class AppConfig {
   // ── Identity ──────────────────────────────────────────────────────────────
-  static const String appName = 'My App';
-  static const String slogan  = 'My app slogan goes here.';
+  static const String appName = 'Sunshine VTU';
+  static const String slogan  = 'Delivery at the speed of light';
   static const String about   = '';
 
   // ── Theme ─────────────────────────────────────────────────────────────────
-  static const String primaryColorHex = '#a202dc';
-  static const Color  primaryColor    = Color(0xFFA202DC);
+  static const String primaryColorHex = '#D77AF8';
+  static const Color  primaryColor    = Color(0xFFD77AF8);
 
   // ── Assets ────────────────────────────────────────────────────────────────
   static const String logoPath = 'assets/logo.png';
@@ -29,5 +29,5 @@ abstract final class AppConfig {
   static const String template = 'default';
 
   // ── Meta ──────────────────────────────────────────────────────────────────
-  static const String generatedAt = '2026-03-28T05:38:25.381188';
+  static const String generatedAt = '2026-04-02T15:33:15.275359';
 }
