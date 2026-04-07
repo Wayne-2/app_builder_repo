@@ -6,7 +6,7 @@
 // ║  Re-generated on every Deploy press                      ║
 // ╚══════════════════════════════════════════════════════════╝
 //
-// Generated : 2026-04-07T21:01:15.438517
+// Generated : 2026-04-07T21:17:42.662032
 
 // ignore_for_file: constant_identifier_names
 
@@ -14,8 +14,8 @@ import 'package:flutter/material.dart';
 
 abstract final class AppConfig {
   // ── Identity ──────────────────────────────────────────────────────────────
-  static const String appName = 'My App';
-  static const String slogan  = 'My app slogan goes here.';
+  static const String appName = 'SUNSHINE VTU';
+  static const String slogan  = 'Delivery At The Speed Of Light';
   static const String about   = '';
 
   // ── Theme ─────────────────────────────────────────────────────────────────
@@ -29,5 +29,5 @@ abstract final class AppConfig {
   static const String template = 'default';
 
   // ── Meta ──────────────────────────────────────────────────────────────────
-  static const String generatedAt = '2026-04-07T21:01:15.438517';
+  static const String generatedAt = '2026-04-07T21:17:42.662032';
 }
