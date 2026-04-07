@@ -6,7 +6,7 @@
 // ║  Re-generated on every Deploy press                      ║
 // ╚══════════════════════════════════════════════════════════╝
 //
-// Generated : 2026-04-07T21:17:42.662032
+// Generated : 2026-04-07T21:24:10.598565
 
 // ignore_for_file: constant_identifier_names
 
@@ -29,5 +29,5 @@ abstract final class AppConfig {
   static const String template = 'default';
 
   // ── Meta ──────────────────────────────────────────────────────────────────
-  static const String generatedAt = '2026-04-07T21:17:42.662032';
+  static const String generatedAt = '2026-04-07T21:24:10.598565';
 }
